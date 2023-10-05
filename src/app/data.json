@@ -1,0 +1,76 @@
+{
+  "players": [
+    {
+      "name": "Qasim",
+      "picture": "/persons/qasim.jpeg"
+    },
+    {
+      "name": "Usama",
+      "picture": "/persons/usama.jpeg"
+    },
+    {
+      "name": "Moheez",
+      "picture": "/persons/moheez.jpeg"
+    },
+    {
+      "name": "Talha",
+      "picture": "/persons/talha.jpeg"
+    },
+    {
+      "name": "Akash",
+      "picture": "/persons/akash.jpeg"
+    },
+    {
+      "name": "Junaid",
+      "picture": "/persons/junaid.jpeg"
+    },
+    {
+      "name": "Ammad",
+      "picture": null
+    },
+    {
+      "name": "Asad",
+      "picture": null
+    },
+    {
+      "name": "Subyyal",
+      "picture": null
+    },
+    {
+      "name": "Ahmad",
+      "picture": null
+    },
+    {
+      "name": "Ikrama",
+      "picture": null
+    },
+    {
+      "name": "Ifrahim",
+      "picture": null
+    },
+    {
+      "name": "Ahtesham",
+      "picture": null
+    },
+    {
+      "name": "Danyal",
+      "picture": null
+    },
+    {
+      "name": "Adeel",
+      "picture": null
+    },
+    {
+      "name": "Haroon",
+      "picture": null
+    },
+    {
+      "name": "Osama B",
+      "picture": null
+    },
+    {
+      "name": "Muqarrab",
+      "picture": "/persons/muqarrab.jpeg"
+    }
+  ]
+}
